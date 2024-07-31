@@ -1,0 +1,12 @@
+Click==7.0
+dlib @ file:///D:/E-TUTELAGE-master/dlib-19.22.99-cp39-cp39-win_amd64.whl#sha256=c73bdd0c215829109cd36936a855e2af84e7f8cf12168dbe4e08c93e1f3f1274
+Flask==1.1.1
+imutils==0.5.3
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+numpy==1.21.0
+opencv-python==4.5.5.64
+pillow==10.3.0
+scipy==1.13.1
+Werkzeug==1.0.0
